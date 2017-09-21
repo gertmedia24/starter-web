@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	GertVT    gvanto@gmail.com gvanto
     <name> -- <role> -- <twitter>
 
 # THANKS
